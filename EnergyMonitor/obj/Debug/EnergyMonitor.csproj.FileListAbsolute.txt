@@ -1,0 +1,7 @@
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment4\Energy Monitoring System\EnergyMonitor\EnergyMonitor\bin\Debug\EnergyMonitor.exe.config
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment4\Energy Monitoring System\EnergyMonitor\EnergyMonitor\bin\Debug\EnergyMonitor.exe
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment4\Energy Monitoring System\EnergyMonitor\EnergyMonitor\bin\Debug\EnergyMonitor.pdb
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment4\Energy Monitoring System\EnergyMonitor\EnergyMonitor\obj\Debug\EnergyMonitor.csproj.AssemblyReference.cache
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment4\Energy Monitoring System\EnergyMonitor\EnergyMonitor\obj\Debug\EnergyMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment4\Energy Monitoring System\EnergyMonitor\EnergyMonitor\obj\Debug\EnergyMonitor.exe
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment4\Energy Monitoring System\EnergyMonitor\EnergyMonitor\obj\Debug\EnergyMonitor.pdb
